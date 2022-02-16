@@ -1,0 +1,47 @@
+Día 1 (Jueves 9  de Diciembre)
+Hemos echado un vistazo junto al profesor al proyecto, nos han indicado lo que debe contener, y como organizarlo.
+A continuación hemos repartido tareas iniciales, mientras investigávamos como tener nuestras propias ramas y organizarnos
+entre nosotros. Rafa ha empezado a hacer el login, Cristian se ha mirado la configuración del JSON Server, y María 
+ha empezado la bitácora y la memoria.
+Componentes que vamos a utilizar: Login, Usuario, Artículos, Pedidos, Navbar, Footer.
+Reparto de componentes: 
+- María: Navbar, Footer y Pedidos.
+- Rafa: Login, Usuario, Articulos .
+Eramos 3 personas en el equipo, pero una tuvo que salir a ayudar a otros.
+Hemos decidido no seguir del todo con el diseño del ejemplo propuesto, vamos a utilizar formularios
+para la creación y el trato de datos.
+Hemos terminado la planificación del proyecto. Rafa ha terminado el componente de usuario, y va a terminar el login. María ha terminado
+el componente artículo, el navbar y el dashboard. Rafa ha propuesto un diseño distinto que mañana probaremos con bootstrap. Mañana 
+queremos terminar la aplicación en cuanto a funcionalidad, pero no nos preocupa porque tenemos todo el fin de semana por delante.
+Objetivos de mañana:
+-Implementar diseño propuesto por Rafa.
+-Terminar el componente de pedidos.
+-Terminar el login.
+-Si hay tiempo, usar el diseño de bootstrap.
+
+Día 2. (Viernes 10 de Diciembre)
+Vamos a poner en conjunto el código que ambos tenemos, usar bootstrap para la página y ponernos a hacer pruebas con el json server.
+Rafa ha terminado el login, y ha implementado el diseño de bootstrap que había comentado en la navbar, usuarios y artículos. Falta
+juntar el proyecto y añadir el estilo a pedidos. 
+Cuando lo juntemos y tengamos ya la aplicación bien estructurada, empezaremos a hacer las pruebas.
+Tareas de hoy:
+-Acabar Pedidos con Bootstrap.
+-Juntar proyecto.
+-Realizar pruebas.
+-Poner en funcionamiento.
+-Actualizar documentación.
+Conseguimos avanzar bastante en la aplicacion, nos falta acabar Pedidos y poner bien la barra de navegacion.
+
+Días 3 y 4. (Sabado y Domingo, 11 y 12 de Diciembre)
+María acabó el componente de Pedidos y añadió el contador de la barra de navegación. Mañana tenemos que unir proyectos y decidir qué más hacer.
+Rafa hizo paginación, validación del formulario y mostrar por id.
+
+Día 5. (Lunes 13  de Diciembre)
+Últimos retoques del proyecto, elaboración de la memoria y comprobación del funcionamiento de la aplicación. Pusimos el usuario logueado en el header y estructuramos el protecto.
+Acabamos el login y la memoria.
+
+Día 6. (Martes 14 de Diciembre)
+Hemos subido ya el proyecto a Github. Vamos a hacerle unos retoques para intentar mejorar la aplicación, pero la base estaría hecha. Hemos realizado un muy buen trabajo 
+con este proyecto, y ha dado sus frutos.
+
+
